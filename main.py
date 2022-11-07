@@ -2,7 +2,7 @@ import tkinter
 from PIL import Image
 import time
 import pygame
-# Ссылка на гугл диск, на котором файл с музыкой. Он не прошла по размеру на github.
+# Ссылка на гугл диск, на котором файл с музыкой. Он не прошла по размеру на github. https://drive.google.com/drive/folders/1RzTOtOH4LLt6UE6C6TCYG-0Quf38lkTE
 pygame.init()
 pygame.mixer.music.load("music.wav")
 pygame.mixer.music.play(-1)
